@@ -1,6 +1,6 @@
 <?php
 
-  $conexion = new PDO ('mysql:localhost:3307');
-
+  $conexion = new PDO('mysql:host=localhost:3307;dbname=formulario', 'root', '');
+  echo "Conexion exitosa";
 
 ?>

@@ -1,0 +1,29 @@
+* {
+  
+  padding: 0px;
+  margin: 0px;
+
+}
+
+.titulo_login{
+
+    text-align: center;
+
+}
+
+.caja_formulario{
+
+    height: 200px;
+    width: 250px;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid rgb(0, 0, 0) ;
+    position: relative;
+
+}
+
+.caja_id{
+
+    text-align: center;
+
+}
